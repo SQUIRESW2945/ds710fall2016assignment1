@@ -1,8 +1,21 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+Will Squires
+
 2. Why are you interested in Data Science?
+Much of the work I do in my current role is in data analytics. 
+
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+Experience programming in several languages including C+, C#, JavaScript, VB and VB Script and SQL 
+
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+I have taken basic business statistics courses during my undergrad.  My current job does require a lot of statistical analysis on multiple types of data sets.  For example, when looking at our cell phone spend within our company we may want to know what the average and median spend per country or per department is, how much deviation we see within those segments, etc.
+
 5.  Do you have other experience with R or Python?
+I do not have any experience with either R or Python.
+
 6.  What do you hope to learn in this class?
+Hoping to learn some new tools and techniques aside from current go to methods of SQL based tools. 
+
 7.  Is there anything else you would like to share with us?
+Nothing else I can think of.
